@@ -1,0 +1,207 @@
+customer_id,customer_name,age,gender,email,purchase_date,product_category,product_name,quantity,unit_price,total_amount,payment_method,shipping_country,customer_satisfaction,days_to_deliver
+C001,John Smith,34,M,john.smith@email.com,2024-01-15,Electronics,Laptop,1,899.99,899.99,Credit Card,USA,5,3
+C002,Sarah Johnson,28,F,sarah.j@email.com,2024-01-16,Clothing,T-Shirt,3,19.99,59.97,PayPal,UK,4,5
+C003,Mike Williams,,M,mike.will@,2024-01-17,Electronics,Headphones,2,79.99,159.98,Credit Card,Canada,5,2
+C004,Emily Davis,45,Female,emily.davis@email.com,15/01/2024,Home & Garden,Plant Pot,5,12.50,62.50,Debit Card,USA,3,7
+C005,Robert Brown,52,M,robert.b@email.com,2024-01-19,Books,Novel,1,15.99,15.99,Credit Card,Australia,4,10
+C006,Lisa Anderson,31,F,,2024-01-20,Electronics,Smartphone,1,699.99,699.99,Credit Card,USA,5,4
+C007,David Miller,29,M,david.miller@email.com,2024-01-21,Sports,Running Shoes,1,89.99,89.99,PayPal,Germany,2,6
+C008,Jennifer Taylor,38,F,jennifer.t@email.com,2024-01-22,Beauty,Lipstick,4,22.50,90.00,Credit Card,France,4,5
+C009,Michael Wilson,150,M,michael.w@email.com,2024-01-23,Electronics,Tablet,1,399.99,399.99,Debit Card,USA,5,3
+C010,Amanda Moore,27,F,amanda.moore@email.com,2024-01-24,Clothing,Jeans,2,49.99,99.98,Credit Card,UK,3,8
+C011,Christopher Lee,35,M,chris.lee@email.com,2024-01-25,Home & Garden,Lamp,1,45.00,45.00,PayPal,Canada,4,4
+C012,Jessica Martinez,42,Female,jessica.m@email.com,25-01-2024,Books,Cookbook,2,25.99,51.98,Credit Card,USA,5,6
+C013,Daniel Garcia,33,M,daniel.garcia@,2024-01-27,Electronics,Camera,1,549.99,549.99,Credit Card,Spain,4,5
+C014,Michelle Rodriguez,29,F,michelle.r@email.com,2024-01-28,Beauty,Perfume,1,75.00,75.00,Debit Card,USA,3,4
+C015,James Hernandez,-5,M,james.h@email.com,2024-01-29,Sports,Yoga Mat,3,29.99,89.97,PayPal,Mexico,4,9
+C016,Laura Thompson,36,F,laura.t@email.com,2024-01-30,Clothing,Dress,1,79.99,79.99,Credit Card,USA,5,3
+C017,Matthew White,41,M,,2024-02-01,Electronics,Smartwatch,1,299.99,299.99,Credit Card,UK,2,7
+C018,Ashley Harris,25,F,ashley.harris@email.com,2024-02-02,Home & Garden,Cushion,6,15.99,95.94,PayPal,Canada,4,5
+C019,Joshua Clark,48,M,joshua.clark@email.com,02/02/2024,Books,Biography,1,19.99,19.99,Debit Card,USA,5,6
+C020,Stephanie Lewis,32,Female,stephanie.l@email.com,2024-02-04,Electronics,Keyboard,1,79.99,79.99,Credit Card,Australia,3,8
+C021,Andrew Robinson,30,M,andrew.r@email.com,2024-02-05,Sports,Dumbbell Set,1,149.99,149.99,Credit Card,USA,4,4
+C022,Nicole Walker,27,F,nicole.walker@,2024-02-06,Beauty,Face Cream,2,35.50,71.00,PayPal,Germany,5,5
+C023,Kevin Hall,39,M,kevin.hall@email.com,2024-02-07,Clothing,Jacket,1,120.00,120.00,Credit Card,France,4,6
+C024,Rachel Allen,44,F,,2024-02-08,Home & Garden,Rug,1,89.99,89.99,Debit Card,USA,3,9
+C025,Brandon Young,26,M,brandon.y@email.com,2024-02-09,Electronics,Monitor,1,249.99,249.99,Credit Card,UK,5,3
+C026,Samantha King,31,F,samantha.king@email.com,09-02-2024,Books,Travel Guide,1,14.99,14.99,PayPal,Canada,4,7
+C027,Justin Wright,35,M,justin.wright@email.com,2024-02-11,Sports,Tennis Racket,1,99.99,99.99,Credit Card,USA,2,5
+C028,Megan Lopez,28,Female,megan.l@email.com,2024-02-12,Beauty,Nail Polish,8,8.99,71.92,Debit Card,Spain,4,4
+C029,Tyler Hill,250,M,tyler.h@,2024-02-13,Electronics,Speaker,2,59.99,119.98,PayPal,USA,5,6
+C030,Hannah Scott,33,F,hannah.scott@email.com,2024-02-14,Clothing,Sweater,1,55.00,55.00,Credit Card,Mexico,3,8
+C031,Ryan Green,37,M,ryan.green@email.com,2024-02-15,Home & Garden,Vase,3,22.50,67.50,Credit Card,USA,4,3
+C032,Brittany Adams,29,F,,2024-02-16,Books,Self-help,2,18.99,37.98,PayPal,UK,5,5
+C033,Jacob Baker,42,M,jacob.baker@email.com,16/02/2024,Electronics,Printer,1,179.99,179.99,Credit Card,Canada,3,7
+C034,Amber Nelson,26,F,amber.n@email.com,2024-02-18,Sports,Bicycle,1,399.99,399.99,Debit Card,USA,4,10
+C035,Zachary Carter,34,M,zachary.carter@,2024-02-19,Beauty,Shampoo,5,12.99,64.95,Credit Card,Australia,5,4
+C036,Christina Mitchell,38,Female,christina.m@email.com,2024-02-20,Clothing,Socks,10,5.99,59.90,PayPal,Germany,4,6
+C037,Austin Perez,31,M,austin.p@email.com,20-02-2024,Home & Garden,Candle,4,9.99,39.96,Credit Card,USA,3,5
+C038,Danielle Roberts,27,F,danielle.r@email.com,2024-02-22,Electronics,USB Drive,5,15.99,79.95,Debit Card,France,4,3
+C039,Nathan Turner,45,M,,2024-02-23,Books,Comic Book,3,12.99,38.97,Credit Card,UK,5,7
+C040,Kayla Phillips,30,F,kayla.phillips@email.com,2024-02-24,Sports,Golf Clubs,1,299.99,299.99,PayPal,Canada,2,9
+C041,Ethan Campbell,36,M,ethan.c@email.com,2024-02-25,Beauty,Cologne,1,65.00,65.00,Credit Card,USA,4,4
+C042,Victoria Parker,28,Female,victoria.p@,2024-02-26,Clothing,Scarf,2,24.99,49.98,Debit Card,Spain,5,6
+C043,Christian Evans,40,M,christian.e@email.com,26/02/2024,Electronics,Mouse,3,25.99,77.97,Credit Card,Mexico,3,5
+C044,Alexis Edwards,32,F,alexis.edwards@email.com,2024-02-28,Home & Garden,Mirror,1,79.99,79.99,PayPal,USA,4,8
+C045,Dylan Collins,29,M,dylan.collins@email.com,2024-02-29,Books,Dictionary,1,29.99,29.99,Credit Card,UK,5,3
+C046,Morgan Stewart,35,F,,2024-03-01,Sports,Swimming Goggles,2,19.99,39.98,Debit Card,Canada,4,7
+C047,Connor Morris,43,M,connor.m@email.com,01-03-2024,Electronics,Webcam,1,89.99,89.99,Credit Card,USA,3,4
+C048,Taylor Rogers,27,F,taylor.rogers@email.com,2024-03-03,Beauty,Eyeliner,6,14.99,89.94,PayPal,Australia,5,5
+C049,Jordan Reed,38,M,jordan.reed@,2024-03-04,Clothing,Belt,1,29.99,29.99,Credit Card,Germany,4,6
+C050,Destiny Cook,31,Female,destiny.c@email.com,2024-03-05,Home & Garden,Picture Frame,4,18.99,75.96,Debit Card,USA,3,9
+C001,John Smith,34,M,john.smith@email.com,2024-03-06,Electronics,Charger,2,19.99,39.98,Credit Card,USA,4,3
+C051,Cameron Morgan,26,M,cameron.morgan@email.com,06-03-2024,Books,Magazine,5,6.99,34.95,PayPal,France,5,5
+C052,Sydney Bell,33,F,sydney.bell@email.com,2024-03-08,Sports,Water Bottle,3,12.99,38.97,Credit Card,UK,2,4
+C053,Hunter Murphy,39,M,,2024-03-09,Electronics,Hard Drive,1,129.99,129.99,Debit Card,Canada,4,7
+C054,Sierra Bailey,28,F,sierra.b@email.com,2024-03-10,Beauty,Moisturizer,2,28.50,57.00,Credit Card,USA,5,3
+C055,Cody Rivera,35,M,cody.rivera@,2024-03-11,Clothing,Hat,2,19.99,39.98,PayPal,Spain,3,8
+C056,Marissa Cooper,42,Female,marissa.c@email.com,11/03/2024,Home & Garden,Clock,1,45.00,45.00,Credit Card,Mexico,4,6
+C057,Blake Richardson,30,M,blake.r@email.com,2024-03-13,Electronics,Gaming Console,1,499.99,499.99,Debit Card,USA,5,5
+C058,Paige Cox,27,F,paige.cox@email.com,2024-03-14,Books,Poetry Collection,1,16.99,16.99,Credit Card,UK,4,7
+C059,Dustin Howard,44,M,dustin.howard@,2024-03-15,Sports,Basketball,2,24.99,49.98,PayPal,Canada,3,4
+C060,Jasmine Ward,32,F,,2024-03-16,Beauty,Makeup Brush Set,1,39.99,39.99,Credit Card,Australia,5,6
+C061,Trevor Torres,36,M,trevor.t@email.com,16-03-2024,Clothing,Gloves,3,15.99,47.97,Debit Card,USA,4,9
+C062,Courtney Peterson,29,Female,courtney.p@email.com,2024-03-18,Home & Garden,Blanket,1,49.99,49.99,Credit Card,Germany,5,3
+C063,Devin Gray,41,M,devin.gray@email.com,2024-03-19,Electronics,Router,1,69.99,69.99,PayPal,France,2,8
+C064,Savannah Ramirez,25,F,savannah.r@email.com,2024-03-20,Books,Textbook,1,89.99,89.99,Credit Card,UK,4,5
+C065,Derek James,37,M,,2024-03-21,Sports,Soccer Ball,1,29.99,29.99,Debit Card,Canada,3,7
+C066,Haley Watson,31,F,haley.watson@email.com,21-03-2024,Electronics,Drone,1,349.99,349.99,Credit Card,USA,5,4
+C067,Marcus Brooks,46,M,marcus.b@,2024-03-23,Beauty,Aftershave,2,32.50,65.00,PayPal,Spain,4,6
+C068,Katelyn Kelly,28,F,katelyn.kelly@email.com,2024-03-24,Clothing,Leggings,2,34.99,69.98,Credit Card,Mexico,3,8
+C069,Bryce Sanders,34,M,bryce.sanders@email.com,24/03/2024,Home & Garden,Towel Set,1,39.99,39.99,Debit Card,USA,4,5
+C070,Melissa Price,39,Female,melissa.p@email.com,2024-03-26,Books,Art Book,1,45.00,45.00,Credit Card,UK,5,7
+C071,Garrett Bennett,30,M,,2024-03-27,Electronics,Cable,10,5.99,59.90,PayPal,Canada,4,3
+C072,Autumn Wood,26,F,autumn.wood@email.com,27-03-2024,Sports,Fitness Tracker,1,79.99,79.99,Credit Card,Australia,2,9
+C073,Wesley Barnes,43,M,wesley.b@email.com,2024-03-29,Beauty,Hair Gel,3,11.99,35.97,Debit Card,USA,4,4
+C074,Kelsey Ross,32,F,kelsey.ross@,2024-03-30,Clothing,Sunglasses,1,49.99,49.99,Credit Card,Germany,5,6
+C075,Dalton Henderson,35,M,dalton.h@email.com,2024-03-31,Home & Garden,Curtains,2,34.99,69.98,PayPal,France,3,8
+C002,Sarah Johnson,28,F,sarah.j@email.com,31/03/2024,Electronics,Earbuds,1,59.99,59.99,Credit Card,UK,4,5
+C076,Jenna Coleman,29,F,jenna.coleman@email.com,2024-04-02,Books,Children's Book,4,8.99,35.96,Debit Card,USA,5,7
+C077,Tanner Jenkins,38,M,,2024-04-03,Sports,Skateboard,1,89.99,89.99,Credit Card,Canada,3,4
+C078,Jillian Perry,27,Female,jillian.p@email.com,03-04-2024,Electronics,Power Bank,2,29.99,59.98,PayPal,Spain,4,6
+C079,Peyton Powell,41,M,peyton.powell@email.com,2024-04-05,Beauty,Body Wash,4,9.99,39.96,Credit Card,Mexico,5,3
+C080,Shelby Long,33,F,shelby.long@,2024-04-06,Clothing,Pajamas,1,39.99,39.99,Debit Card,USA,2,9
+C081,Cole Patterson,36,M,cole.p@email.com,2024-04-07,Home & Garden,Doormat,1,24.99,24.99,Credit Card,UK,4,5
+C082,Bethany Hughes,30,F,bethany.hughes@email.com,07/04/2024,Electronics,Memory Card,3,19.99,59.97,PayPal,Canada,5,7
+C083,Colton Flores,42,M,colton.f@email.com,2024-04-09,Books,Graphic Novel,2,22.99,45.98,Credit Card,Australia,3,4
+C084,Kendra Washington,28,F,,2024-04-10,Sports,Dumbbells,2,39.99,79.98,Debit Card,USA,4,8
+C085,Preston Butler,35,M,preston.butler@,2024-04-11,Beauty,Deodorant,5,7.99,39.95,Credit Card,Germany,5,3
+C086,Mallory Simmons,31,Female,mallory.s@email.com,11-04-2024,Clothing,Hoodie,1,59.99,59.99,PayPal,France,4,6
+C087,Clayton Foster,39,M,clayton.foster@email.com,2024-04-13,Home & Garden,Watering Can,2,16.99,33.98,Credit Card,UK,3,9
+C088,Ariana Gonzales,26,F,ariana.g@email.com,2024-04-14,Electronics,Flash Drive,4,12.99,51.96,Debit Card,Canada,5,4
+C089,Griffin Bryant,44,M,,2024-04-15,Books,Fantasy Novel,1,24.99,24.99,Credit Card,USA,4,7
+C090,Miranda Alexander,32,F,miranda.a@email.com,15/04/2024,Sports,Yoga Block,2,14.99,29.98,PayPal,Spain,2,5
+C091,Chandler Russell,37,M,chandler.r@,2024-04-17,Electronics,Bluetooth Adapter,1,24.99,24.99,Credit Card,Mexico,4,6
+C092,Kennedy Griffin,29,F,kennedy.griffin@email.com,2024-04-18,Beauty,Conditioner,3,13.99,41.97,Debit Card,USA,5,3
+C093,Brock Diaz,40,M,brock.diaz@email.com,18-04-2024,Clothing,Tie,2,24.99,49.98,Credit Card,UK,3,8
+C094,Natalie Hayes,34,Female,natalie.h@email.com,2024-04-20,Home & Garden,Storage Box,5,14.99,74.95,PayPal,Canada,4,5
+C095,Dakota Myers,31,M,dakota.myers@email.com,2024-04-21,Electronics,Stylus,2,19.99,39.98,Credit Card,Australia,5,7
+C096,Jade Ford,27,F,,2024-04-22,Books,Science Book,1,34.99,34.99,Debit Card,USA,4,4
+C097,Pierce Hamilton,43,M,pierce.h@email.com,22/04/2024,Sports,Jump Rope,3,12.99,38.97,Credit Card,Germany,3,9
+C098,Lydia Graham,30,F,lydia.graham@,2024-04-24,Electronics,Screen Protector,4,9.99,39.96,PayPal,France,5,3
+C099,Collin Sullivan,36,M,collin.sullivan@email.com,2024-04-25,Beauty,Face Mask,6,8.99,53.94,Credit Card,UK,4,6
+C100,Ruby Wallace,28,F,ruby.wallace@email.com,25-04-2024,Clothing,Cardigan,1,49.99,49.99,Debit Card,Canada,2,8
+C003,Mike Williams,35,M,mike.will@email.com,2024-04-27,Home & Garden,Soap Dispenser,2,12.99,25.98,Credit Card,USA,4,5
+C101,Gage Woods,39,M,,2024-04-28,Electronics,HDMI Cable,3,14.99,44.97,PayPal,Spain,5,7
+C102,Skylar Cole,32,Female,skylar.c@email.com,28/04/2024,Books,History Book,1,28.99,28.99,Credit Card,Mexico,3,4
+C103,Barrett Knight,41,M,barrett.knight@email.com,2024-04-30,Sports,Resistance Bands,1,24.99,24.99,Debit Card,USA,4,9
+C104,Elise Webb,27,F,elise.webb@,2024-05-01,Beauty,Hand Cream,4,11.99,47.96,Credit Card,UK,5,3
+C105,Phoenix Palmer,35,M,phoenix.p@email.com,01-05-2024,Clothing,Shorts,2,29.99,59.98,PayPal,Canada,4,6
+C106,Gemma Robertson,30,F,gemma.robertson@email.com,2024-05-03,Home & Garden,Bath Mat,1,19.99,19.99,Credit Card,Australia,3,8
+C107,Hayes Chapman,44,M,hayes.chapman@email.com,2024-05-04,Electronics,SD Card Reader,1,16.99,16.99,Debit Card,USA,5,5
+C108,Lucia Reynolds,29,F,,2024-05-05,Books,Mystery Novel,2,19.99,39.98,Credit Card,Germany,4,7
+C109,Ryker Austin,37,M,ryker.a@email.com,05/05/2024,Sports,Protein Shaker,2,9.99,19.98,PayPal,France,2,4
+C110,Eloise Boyd,31,F,eloise.boyd@,2024-05-07,Electronics,Phone Case,1,24.99,24.99,Credit Card,UK,4,6
+C111,Jensen Crawford,40,M,jensen.crawford@email.com,2024-05-08,Beauty,Beard Oil,2,18.99,37.98,Debit Card,Canada,5,3
+C112,Dahlia Richards,26,Female,dahlia.r@email.com,08-05-2024,Clothing,Blouse,1,44.99,44.99,Credit Card,USA,3,9
+C113,Gunner Castillo,42,M,gunner.castillo@email.com,2024-05-10,Home & Garden,Trash Can,1,29.99,29.99,PayPal,Spain,4,5
+C114,Lorelei Elliott,33,F,lorelei.e@email.com,2024-05-11,Electronics,Laptop Stand,1,39.99,39.99,Credit Card,Mexico,5,7
+C115,Maverick Garza,36,M,,2024-05-12,Books,Business Book,1,32.99,32.99,Debit Card,USA,4,4
+C116,Scarlett Duncan,28,F,scarlett.duncan@,2024-05-13,Sports,Foam Roller,1,34.99,34.99,Credit Card,UK,3,8
+C117,Bodhi Hale,39,M,bodhi.hale@email.com,13/05/2024,Electronics,Microphone,1,89.99,89.99,PayPal,Canada,5,6
+C118,Vivian Berry,32,F,vivian.berry@email.com,2024-05-15,Beauty,Sunscreen,3,15.99,47.97,Credit Card,Australia,4,3
+C119,Rowan Lawrence,41,M,rowan.l@email.com,2024-05-16,Clothing,Raincoat,1,69.99,69.99,Debit Card,USA,2,9
+C120,Pearl Mills,27,F,,2024-05-17,Home & Garden,Shelf,1,54.99,54.99,Credit Card,Germany,4,5
+C004,Emily Davis,45,Female,emily.davis@email.com,17-05-2024,Electronics,Webcam Light,1,29.99,29.99,PayPal,USA,5,7
+C121,Finn Nichols,38,M,finn.nichols@email.com,2024-05-19,Books,Romance Novel,3,14.99,44.97,Credit Card,France,3,4
+C122,Brielle Wheeler,30,F,brielle.w@,2024-05-20,Sports,Gym Bag,1,39.99,39.99,Debit Card,UK,4,8
+C123,Rex Chandler,43,M,rex.chandler@email.com,20/05/2024,Electronics,Laptop Bag,1,49.99,49.99,Credit Card,Canada,5,6
+C124,Iris Holland,29,Female,iris.holland@email.com,2024-05-22,Beauty,Lip Balm,8,4.99,39.92,PayPal,USA,4,3
+C125,Titan Bates,36,M,,2024-05-23,Clothing,Vest,1,39.99,39.99,Credit Card,Spain,3,9
+C126,Luna Dominguez,31,F,luna.d@email.com,23-05-2024,Home & Garden,Coasters,4,7.99,31.96,Debit Card,Mexico,5,5
+C127,Axel Nash,40,M,axel.nash@email.com,2024-05-25,Electronics,Tripod,1,54.99,54.99,Credit Card,USA,4,7
+C128,Aurora Graves,27,F,aurora.graves@,2024-05-26,Books,Thriller,2,21.99,43.98,PayPal,UK,2,4
+C129,Knox Goodwin,44,M,knox.goodwin@email.com,2024-05-27,Sports,Pedometer,1,19.99,19.99,Credit Card,Canada,4,6
+C130,Willow Cortez,32,F,willow.cortez@email.com,27/05/2024,Electronics,USB Hub,2,24.99,49.98,Debit Card,Australia,5,8
+C131,Jax Walters,37,M,,2024-05-29,Beauty,Tweezers,1,12.99,12.99,Credit Card,USA,3,3
+C132,Ivy Ingram,28,Female,ivy.ingram@email.com,29-05-2024,Clothing,Tank Top,3,16.99,50.97,PayPal,Germany,4,9
+C133,Crew Floyd,41,M,crew.floyd@,2024-05-31,Home & Garden,Throw Pillow,4,18.99,75.96,Credit Card,France,5,5
+C134,Sage Barker,33,F,sage.barker@email.com,2024-06-01,Electronics,Smart Bulb,3,19.99,59.97,Debit Card,UK,4,7
+C135,Zane Mullins,39,M,zane.mullins@email.com,01/06/2024,Books,Philosophy Book,1,26.99,26.99,Credit Card,Canada,3,4
+C136,Chloe Caldwell,26,F,chloe.c@email.com,2024-06-03,Sports,Swim Cap,2,14.99,29.98,PayPal,USA,5,8
+C137,Atlas Goodman,42,M,,2024-06-04,Electronics,VR Headset,1,399.99,399.99,Credit Card,Spain,4,6
+C138,Wren Hancock,31,F,wren.hancock@,2024-06-05,Beauty,Makeup Remover,3,12.99,38.97,Debit Card,Mexico,2,3
+C139,Blaze Norman,38,M,blaze.norman@email.com,05-06-2024,Clothing,Polo Shirt,2,34.99,69.98,Credit Card,USA,4,9
+C140,Violet Harmon,29,Female,violet.harmon@email.com,2024-06-07,Home & Garden,Table Lamp,1,44.99,44.99,PayPal,UK,5,5
+C141,Ace Parks,45,M,ace.parks@email.com,2024-06-08,Electronics,Extension Cord,2,16.99,33.98,Credit Card,Canada,3,7
+C142,Nova Pratt,32,F,,2024-06-09,Books,Horror Novel,1,18.99,18.99,Debit Card,Australia,4,4
+C143,Orion Hogan,36,M,orion.h@email.com,09/06/2024,Sports,Stopwatch,1,24.99,24.99,Credit Card,USA,5,8
+C144,Freya Gentry,27,F,freya.gentry@,2024-06-11,Electronics,Ring Light,1,34.99,34.99,PayPal,Germany,4,6
+C145,Fox Shepard,40,M,fox.shepard@email.com,2024-06-12,Beauty,Razor,2,22.99,45.98,Credit Card,France,3,3
+C146,Juniper Quinn,30,F,juniper.quinn@email.com,12-06-2024,Clothing,Swimsuit,1,49.99,49.99,Debit Card,UK,5,9
+C147,Bear Wolfe,43,M,,2024-06-14,Home & Garden,Wall Art,1,64.99,64.99,Credit Card,Canada,4,5
+C148,Ember Gallagher,28,Female,ember.g@email.com,2024-06-15,Electronics,Car Charger,3,14.99,44.97,PayPal,USA,2,7
+C149,Ridge Bradshaw,37,M,ridge.bradshaw@email.com,15/06/2024,Books,Science Fiction,2,23.99,47.98,Credit Card,Spain,4,4
+C150,Hazel Cervantes,31,F,hazel.cervantes@,2024-06-17,Sports,Frisbee,1,12.99,12.99,Debit Card,Mexico,5,8
+C151,Wilder Reeves,41,M,wilder.reeves@email.com,2024-06-18,Electronics,Laptop Cooler,1,29.99,29.99,Credit Card,USA,3,6
+C152,Isla Zimmerman,29,F,isla.zimmerman@email.com,18-06-2024,Beauty,Eyebrow Pencil,2,11.99,23.98,PayPal,UK,4,3
+C153,Steel Mercer,44,M,,2024-06-20,Clothing,Winter Coat,1,149.99,149.99,Credit Card,Canada,5,9
+C154,Magnolia Vincent,33,F,magnolia.v@email.com,2024-06-21,Home & Garden,Bookshelf,1,99.99,99.99,Debit Card,Australia,4,5
+C155,Dax Flynn,38,M,dax.flynn@,2024-06-22,Electronics,Wireless Charger,2,24.99,49.98,Credit Card,USA,3,7
+C156,Ophelia Dunn,27,Female,ophelia.dunn@email.com,22/06/2024,Books,Memoir,1,24.99,24.99,PayPal,Germany,5,4
+C157,Ryder Shannon,42,M,ryder.shannon@email.com,2024-06-24,Sports,Ankle Weights,2,29.99,59.98,Credit Card,France,4,8
+C158,Celeste Underwood,30,F,celeste.u@email.com,2024-06-25,Electronics,Selfie Stick,1,19.99,19.99,Debit Card,UK,2,6
+C159,Stetson Donovan,39,M,,2024-06-26,Beauty,Toothbrush,4,8.99,35.96,Credit Card,Canada,4,3
+C160,Evangeline Copeland,32,F,evangeline.c@,2024-06-27,Clothing,Athletic Wear,2,39.99,79.98,PayPal,USA,5,9
+C005,Robert Brown,52,M,robert.b@email.com,27-06-2024,Home & Garden,Ottoman,1,89.99,89.99,Credit Card,Australia,3,5
+C161,Colt Reese,41,M,colt.reese@email.com,2024-06-29,Electronics,Network Switch,1,79.99,79.99,Debit Card,Spain,4,7
+C162,Serenity Shields,28,F,serenity.shields@email.com,29/06/2024,Books,Young Adult,3,16.99,50.97,Credit Card,Mexico,5,4
+C163,Ranger Gibbs,36,M,ranger.gibbs@,2024-07-01,Sports,Camping Tent,1,199.99,199.99,PayPal,USA,4,10
+C164,Indie Garrett,31,F,indie.garrett@email.com,2024-07-02,Electronics,Action Camera,1,249.99,249.99,Credit Card,UK,3,6
+C165,Boone Carlson,43,M,,2024-07-03,Beauty,Facial Cleanser,2,16.99,33.98,Debit Card,Canada,5,3
+C166,Meadow Allison,29,Female,meadow.a@email.com,03-07-2024,Clothing,Summer Dress,1,59.99,59.99,Credit Card,USA,4,8
+C167,Wolf Whitaker,40,M,wolf.whitaker@email.com,2024-07-05,Home & Garden,Garden Hose,1,34.99,34.99,PayPal,Germany,2,5
+C168,Clementine Wolfe,32,F,clementine.w@,2024-07-06,Electronics,Gaming Mouse,1,69.99,69.99,Credit Card,France,4,7
+C169,Cash Rosales,37,M,cash.rosales@email.com,06/07/2024,Books,Adventure Novel,1,22.99,22.99,Debit Card,UK,5,4
+C170,Brynn Herman,28,F,brynn.herman@email.com,2024-07-08,Sports,Punching Bag,1,129.99,129.99,Credit Card,Canada,3,9
+C171,Lennox Patton,44,M,,2024-07-09,Electronics,Projector,1,299.99,299.99,PayPal,Australia,4,6
+C172,Paloma Curtis,30,F,paloma.curtis@email.com,09-07-2024,Beauty,Hair Serum,2,24.99,49.98,Credit Card,USA,5,3
+C173,Hawk Gross,41,M,hawk.gross@,2024-07-11,Clothing,Sweatpants,2,29.99,59.98,Debit Card,Spain,4,8
+C174,Zinnia Benson,33,F,zinnia.benson@email.com,2024-07-12,Home & Garden,Plant Stand,1,39.99,39.99,Credit Card,Mexico,3,5
+C175,Arrow Villarreal,38,M,arrow.v@email.com,12/07/2024,Electronics,Bluetooth Speaker,1,79.99,79.99,PayPal,USA,5,7
+C176,Stormi Deleon,27,Female,stormi.deleon@email.com,2024-07-14,Books,Drama,2,19.99,39.98,Credit Card,UK,4,4
+C177,Summit Esparza,42,M,,2024-07-15,Sports,Hiking Boots,1,119.99,119.99,Debit Card,Canada,2,10
+C178,Rosalie Hatfield,31,F,rosalies.hatfield@,2024-07-16,Electronics,Smart Watch Band,2,19.99,39.98,Credit Card,USA,4,6
+C179,Cade Contreras,39,M,cade.contreras@email.com,16-07-2024,Beauty,Body Lotion,3,14.99,44.97,PayPal,Germany,5,3
+C180,Eden Adkins,29,F,eden.adkins@email.com,2024-07-18,Clothing,Flannel Shirt,1,44.99,44.99,Credit Card,France,3,9
+C006,Lisa Anderson,31,F,lisa.a@email.com,2024-07-19,Home & Garden,Desk Organizer,1,24.99,24.99,Debit Card,USA,4,5
+C181,Canyon Waller,43,M,canyon.waller@email.com,19/07/2024,Electronics,Docking Station,1,89.99,89.99,Credit Card,UK,5,7
+C182,Marlowe Cochran,32,F,,2024-07-21,Books,Classic Literature,1,29.99,29.99,PayPal,Canada,4,4
+C183,Huck Moon,36,M,huck.moon@,2024-07-22,Sports,Bike Helmet,1,49.99,49.99,Credit Card,Australia,3,8
+C184,Harlow Moses,28,F,harlow.moses@email.com,2024-07-23,Electronics,LED Strip,3,16.99,50.97,Debit Card,USA,5,6
+C185,Hawk Fleming,40,M,hawk.fleming@email.com,23-07-2024,Beauty,Shaving Cream,2,9.99,19.98,Credit Card,Spain,4,3
+C186,Azalea Boone,31,Female,azalea.boone@,2024-07-25,Clothing,Denim Jacket,1,79.99,79.99,PayPal,Mexico,2,9
+C187,Stone Archer,44,M,stone.archer@email.com,2024-07-26,Home & Garden,Basket,3,14.99,44.97,Credit Card,USA,4,5
+C188,Journey Odom,29,F,journey.odom@email.com,26/07/2024,Electronics,Portable SSD,1,119.99,119.99,Debit Card,UK,5,7
+C189,Justice Branch,37,M,,2024-07-28,Books,Education Book,1,34.99,34.99,Credit Card,Canada,3,4
+C190,Everleigh Peck,32,F,everleigh.peck@email.com,2024-07-29,Sports,Treadmill,1,799.99,799.99,PayPal,USA,4,11
+C191,Racer Conner,41,M,racer.conner@,2024-07-30,Electronics,Smart Thermostat,1,149.99,149.99,Credit Card,Germany,5,8
+C192,Brinley Glover,27,F,brinley.glover@email.com,30-07-2024,Beauty,Foundation,1,39.99,39.99,Debit Card,France,4,3
+C193,Cannon Goodwin,43,M,cannon.goodwin@email.com,2024-08-01,Clothing,Cargo Pants,1,54.99,54.99,Credit Card,UK,3,9
+C194,Emersyn Barr,30,F,,2024-08-02,Home & Garden,Area Rug,1,129.99,129.99,PayPal,Canada,5,6
+C195,Striker Buckley,38,M,striker.buckley@email.com,02/08/2024,Electronics,Graphics Tablet,1,199.99,199.99,Credit Card,Australia,4,7
+C196,Oakley Conrad,31,F,oakley.conrad@,2024-08-04,Books,Poetry Anthology,2,18.99,37.98,Debit Card,USA,2,4
+C197,Rogue Beard,42,M,rogue.beard@email.com,2024-08-05,Sports,Kettlebell,1,44.99,44.99,Credit Card,Spain,4,8
+C198,Tinsley Estes,28,Female,tinsley.estes@email.com,05-08-2024,Electronics,Streaming Device,1,49.99,49.99,PayPal,Mexico,5,5
+C199,Blaze Santiago,39,M,,2024-08-07,Beauty,Exfoliator,3,13.99,41.97,Credit Card,USA,3,3
+C200,Romina Keith,33,F,romina.keith@email.com,2024-08-08,Clothing,Trench Coat,1,99.99,99.99,Debit Card,UK,4,9
