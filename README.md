@@ -146,4 +146,4 @@ All Screenshots below are full resolution and also available in the [`/Screensho
 **Riya Sharma ** — Data Analyst | Power BI • SQL • Python • Tableau
 📍 Gandhinagar, Gujarat, India
 
-Connect with me on [LinkedIn](www.linkedin.com/in/piyush-dave-0980a03a8) | [GitHub](https://github.com/PiyushDave30) | [Tableau Public](https://public.tableau.com/app/profile/piyushdave/vizzes)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/riyasharma8435/) | [GitHub](https://github.com/iamriysharma12?tab=repositories) 
